@@ -1,0 +1,19 @@
+D:\מסמכים\בית ספר\קבצים לבינתיים\Hunukkah\Hunukkah\bin\Debug\Hunukkah.exe.config
+D:\מסמכים\בית ספר\קבצים לבינתיים\Hunukkah\Hunukkah\bin\Debug\Hunukkah.exe
+D:\מסמכים\בית ספר\קבצים לבינתיים\Hunukkah\Hunukkah\bin\Debug\Hunukkah.pdb
+D:\מסמכים\בית ספר\קבצים לבינתיים\Hunukkah\Hunukkah\obj\Debug\Hunukkah.csprojAssemblyReference.cache
+D:\מסמכים\בית ספר\קבצים לבינתיים\Hunukkah\Hunukkah\obj\Debug\Hunukkah.Form1.resources
+D:\מסמכים\בית ספר\קבצים לבינתיים\Hunukkah\Hunukkah\obj\Debug\Hunukkah.Properties.Resources.resources
+D:\מסמכים\בית ספר\קבצים לבינתיים\Hunukkah\Hunukkah\obj\Debug\Hunukkah.csproj.GenerateResource.cache
+D:\מסמכים\בית ספר\קבצים לבינתיים\Hunukkah\Hunukkah\obj\Debug\Hunukkah.csproj.CoreCompileInputs.cache
+D:\מסמכים\בית ספר\קבצים לבינתיים\Hunukkah\Hunukkah\obj\Debug\Hunukkah.exe
+D:\מסמכים\בית ספר\קבצים לבינתיים\Hunukkah\Hunukkah\obj\Debug\Hunukkah.pdb
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hunukkah\bin\Debug\Hunukkah.exe.config
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hunukkah\bin\Debug\Hunukkah.exe
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hunukkah\bin\Debug\Hunukkah.pdb
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hunukkah\obj\Debug\Hunukkah.csprojAssemblyReference.cache
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hunukkah\obj\Debug\Hunukkah.Form1.resources
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hunukkah\obj\Debug\Hunukkah.Properties.Resources.resources
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hunukkah\obj\Debug\Hunukkah.csproj.GenerateResource.cache
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hunukkah\obj\Debug\Hunukkah.exe
+C:\Users\Miki\Desktop\Miki\Computer Science\10 Points Projects\Hunukkah\obj\Debug\Hunukkah.pdb
